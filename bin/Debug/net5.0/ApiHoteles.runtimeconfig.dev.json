@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\JessidEscobar\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\JessidEscobar\\.nuget\\packages"
+    ]
+  }
+}
